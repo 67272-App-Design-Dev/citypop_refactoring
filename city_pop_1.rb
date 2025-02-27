@@ -9,7 +9,7 @@
 # state, an informative message should notify the user.
 
 
-  filename = ARGV[0] || 'citypop_default.txt'
+  filename = ARGV[0] || 'citypop.txt'
   state = ARGV[1] || "CA"
   # puts filename
   
